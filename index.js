@@ -12,7 +12,7 @@ function solving(message){
         puppeteer.use(RecaptchaPlugin({
             provider: {
                 id:'2captcha',
-                token:'67dd29dd93bcfe3f5b451451b6d98226'
+                token:'4d21dec6d0dd9eca5fbb83dc97a1630d'
             },
             visualFeedback:true
         }))
